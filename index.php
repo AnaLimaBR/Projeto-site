@@ -2,9 +2,9 @@
 <html>
   <head>
       <meta charset="utf-8">
-      <title> Inspirações </title>
+      <title> Spa do Sol </title>
   </head>
   <body>
-Inspirações de vida
+Bem-Estar garantido
 </body>
 </html>
